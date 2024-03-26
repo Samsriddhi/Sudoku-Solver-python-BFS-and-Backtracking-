@@ -1,5 +1,7 @@
 # Sudoku-Solver in python using BFS-and-Backtracking and its Tkinter UI
 
+Made for SC1015 DSAI Lab, 26 March, 2024
+
 INPUT:
 
 ![Screenshot 2024-03-26 133518](https://github.com/Samsriddhi/Sudoku-Solver-python-BFS-and-Backtracking-/assets/154321347/f35b66d3-04c4-4329-97aa-a12bb88c8a93)
