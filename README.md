@@ -4,7 +4,7 @@ Made for SC1015 DSAI Lab, March, 2024
 
 ## Algorithms used:<br />
 
-1.CPS and Backtracking <br />
+1.CSP and Backtracking <br />
 2.BFS <br />
 3.DFS
 4.UCS using the number of constraints violated as the cost function <br />
