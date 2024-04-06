@@ -1,6 +1,14 @@
-# Sudoku-Solver in python using BFS-and-Backtracking and its Tkinter UI
+# Sudoku-Solver in python and its Tkinter UI
 
-Made for SC1015 DSAI Lab, 26 March, 2024
+Made for SC1015 DSAI Lab, March, 2024
+
+Algorithms used:
+1.CPS and Backtracking
+2.BFS
+3.DFS
+4.UCS using the number of constraints violated as the cost function
+5.Greedy function using Minimum Remaining Values (MRV) heuristic that selects the variable (cell) with the fewest remaining legal values. It prioritizes the variables that are likely to lead to a solution faster.
+6.A* search combining 4 & 5
 
 INPUT:
 
